@@ -11,7 +11,7 @@ This repository contains our complete solutions to two soil image classification
   - **Best F1-score:** 1.0000
 
 - **Challenge 2 (Binary):**  
-  - **Kaggle Rank:** 18th  
+  - **Kaggle Rank:** 24th  
   - **Best F1-score:** 0.9751
 
 ---
