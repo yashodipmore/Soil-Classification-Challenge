@@ -1,0 +1,8 @@
+PIL
+numpy
+os
+pandas
+sklearn
+torch
+torchvision
+tqdm
