@@ -20,6 +20,10 @@ This repository contains our complete solutions to two soil image classification
   - **Kaggle Private Leaderboard Rank:** 21st
   - **Best F1-score:** 0.9785
 
+
+**Note for the Anam.ai Team:**  
+please be informed that GPU T4 x2 was used for model training in both Challenge 1 and Challenge 2. It is recommended that you use the same GPU configuration for consistency and reproducibility.
+
 ---
 
 ##  Project Structure
