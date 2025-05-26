@@ -4,14 +4,20 @@
 
 This repository contains our complete solutions to two soil image classification challenges hosted by [Annam.ai](https://annam.ai) at **IIT Ropar**. The primary goal was to develop high-performing deep learning models to accurately classify soil images, maximizing **F1-score** for balanced predictions.
 
+##  Team Members
+- **Team Name - Winners**
+- **Yashodip More** – Electrical Engineering, RCPIT, Maharashtra – yashodipmore2004@gmail.com  
+- **S.M. Sakthivel** – AI & Data Science, Achariya College, Puducherry – s.m.sakthivelofficial@gmail.com  
+- **Komal Kumavat** – Electrical Engineering, RCPIT, Maharashtra – komalkumavat025@gmail.com
+
 ##  Competition Results
 
 - **Challenge 1 (Multiclass):**  
-  - **Kaggle Rank:** 18th  
+  - **Kaggle Private Leaderboard Rank:** 14th  
   - **Best F1-score:** 1.0000
 
 - **Challenge 2 (Binary):**  
-  - **Kaggle Rank:** 24th  
+  - **Kaggle Private Leaderboard Rank:** 21st
   - **Best F1-score:** 0.9751
 
 ---
@@ -31,11 +37,6 @@ Each folder contains:
 
 ---
 
-##  Team Members
-- **Team Name - Winners**
-- **Yashodip More** – Electrical Engineering, RCPIT, Maharashtra – yashodipmore2004@gmail.com  
-- **S.M. Sakthivel** – AI & Data Science, Achariya College, Puducherry – s.m.sakthivelofficial@gmail.com  
-- **Komal Kumavat** – Electrical Engineering, RCPIT, Maharashtra – komalkumavat025@gmail.com
 
 ---
 
